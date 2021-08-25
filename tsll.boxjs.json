@@ -37,6 +37,29 @@
             "script": "https://raw.githubusercontent.com/546770972/zgllogo/main/shuqi.js"
     },
     {
+            "id": "fhxz&tsll",
+            "name": "富豪小镇",
+            "keys": ["fhxzurl", "fhxzurl2","fhxzurl3","fhxzurl4","fhxzurl5","fhxzurl6","fhxzurl7","fhxzurl8","fhxzurl9","fhxzurl10","fhxzurl11","fhxzurl12","fhxzurl13","fhxzurl14","fhxzurl15","fhxzurl16","fhxzurl17","fhxzurl18","fhxzurl19","fhxzurl20","fhxzurl21","fhxzurl22","fhxzurl23","fhxzurl24","fhxzurl25"],
+            "author": "@tsll",
+            "settings": [{
+            "id": "fhxzsetting",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "fhxzcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "http://nm66.top/qlfhxz.js",
+            "icons": ["http://nm66.top/1.jpg", "http://nm66.top/1.jpg"],
+            "script": "http://nm66.top/qlfhxz.js"
+    },
+    {
             "id": "yydxny",
             "name": "爷爷小农院",
             "keys": ["yyxnyhd", "yyxnyhd2", "yyxnyhd3","yyxnyhd4","yyxnyhd5", "yyxnyhd6", "yyxnyhd7","yyxnyhd8","yyxnyhd9","yyxnyhd10","yyxnyhd11","yyxnyhd12","yyxnyhd13","yyxnyhd14","yyxnyhd15","yyxnyhd16","yyxnyhd17","yyxnyhd18","yyxnyhd19","yyxnyhd20","yyxnyhd21","yyxnyhd22","yyxnyhd23","yyxnyhd24","yyxnyhd25"],
