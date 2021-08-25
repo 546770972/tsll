@@ -42,7 +42,7 @@
             "keys": ["fhxzurl", "fhxzurl2","fhxzurl3","fhxzurl4","fhxzurl5","fhxzurl6","fhxzurl7","fhxzurl8","fhxzurl9","fhxzurl10","fhxzurl11","fhxzurl12","fhxzurl13","fhxzurl14","fhxzurl15","fhxzurl16","fhxzurl17","fhxzurl18","fhxzurl19","fhxzurl20","fhxzurl21","fhxzurl22","fhxzurl23","fhxzurl24","fhxzurl25"],
             "author": "@tsll",
             "settings": [{
-            "id": "fhxzsetting",
+            "id": "fhxzstatus",
             "name": "当前账号",
             "val": "1",
             "type": "number",
