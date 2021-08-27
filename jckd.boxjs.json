@@ -22,7 +22,7 @@
       ]
     },
     {
-      "id": "jcRead",
+      "id": "jcRead&tsll",
       "name": "晶彩自动阅读",
       "keys": ["wzbody","jc_timebody","wzbody2","jc_timebody2","wzbody3","jc_timebody3","wzbody4","jc_timebody4","wzbody5","jc_timebody5","wzbody6","jc_timebody6"],
 
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "id": "jcSign",
+      "id": "jcSign&tsll",
       "name": "晶彩签到&宝箱",
       "keys": [
         "qdbody",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": "jcCookie",
+      "id": "jcCookie&tsll",
       "name": "晶彩火爆转发&好友签到红包&福利视频",
       "keys": [
         "jc_cookie"
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "id": "jc_withdraw",
+      "id": "jc_withdraw&tsll",
       "name": "晶彩提现",
       "keys": [
         "jc_withdraw",
