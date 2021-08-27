@@ -10,7 +10,8 @@
       "name": "晶彩看看赚",
       "keys": [
         "lookStartbody",
-        "jc_cookie"
+        "jc_cookie","2lookStartbody",
+        "2jc_cookie"
       ],
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js",
