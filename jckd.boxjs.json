@@ -1,7 +1,7 @@
 {
-  "id": "shaolin-kongfu.app.sub",
-  "name": "少林功夫boxjs订阅",
-  "author": "@shaolin-kongfu",
+  "id": "tsll.app.sub",
+  "name": "涂山凉凉boxjs订阅",
+  "author": "@tsll",
   "icon": "https://raw.githubusercontent.com/546770972/tsll/main/IMG_1383.PNG",
   "repo": "https://raw.githubusercontent.com/546770972/tsll",
   "apps": [
@@ -10,9 +10,26 @@
       "name": "晶彩看看赚",
       "keys": [
         "lookStartbody",
-        "jc_cookie","2lookStartbody",
-        "2jc_cookie"
+        "jc_cookie","lookStartbody2",
+        "jc_cookie2"
       ],
+            "author": "@tsll",
+            "settings": [{
+            "id": "lookStartbody",
+        "jc_cookie",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "lookStartbody",
+        "jc_cookie",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+}
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js",
       "icons": [
