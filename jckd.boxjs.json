@@ -6,13 +6,12 @@
   "repo": "https://raw.githubusercontent.com/546770972/tsll",
   "apps": [
     {
-      "id": "jcKkz",
+      "id": "jcKkz&tsll",
       "name": "晶彩看看赚",
       "keys": [
-        "lookStartbody",
-        "jc_cookie","lookStartbody2",
-        "jc_cookie2"
-      ],
+        "lookStartbody","jc_cookie","lookStartbody2","jc_cookie2"],
+
+
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jckkz.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jckkz.js",
       "icons": [
