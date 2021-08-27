@@ -25,6 +25,7 @@
       "id": "jcRead",
       "name": "晶彩自动阅读",
       "keys": ["wzbody","jc_timebody","wzbody2","jc_timebody2","wzbody3","jc_timebody3","wzbody4","jc_timebody4","wzbody5","jc_timebody5","wzbody6","jc_timebody6"],
+
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js",
       "icons": [
