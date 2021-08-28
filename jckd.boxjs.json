@@ -24,7 +24,7 @@
     {
       "id": "jcRead&tsll",
       "name": "晶彩自动阅读",
-      "keys": ["wzbody","jc_timebody","wzbody2","jc_timebody2","wzbody3","jc_timebody3","wzbody4","jc_timebody4","wzbody5","jc_timebody5","wzbody6","jc_timebody6"],
+      "keys": ["wzbody","jc_timebody","wzbody2","jc_timebody2","wzbody3","jc_timebody3","wzbody4","jc_timebody4","wzbody5","jc_timebody5","wzbody6","jc_timebody6","wzbody7","jc_timebody7","wzbody8","jc_timebody8","wzbody9","jc_timebody9","wzbody10","jc_timebody10","wzbody11","jc_timebody11","wzbody12","jc_timebody12","wzbody13","jc_timebody13","wzbody14","jc_timebody14","wzbody15","jc_timebody15","wzbody16","jc_timebody16","wzbody17","jc_timebody17","wzbody18","jc_timebody18","wzbody19","jc_timebody19","wzbody20","jc_timebody20","wzbody21","jc_timebody21","wzbody22","jc_timebody22","wzbody23","jc_timebody23","wzbody24","jc_timebody24","wzbody25","jc_timebody25"],
 
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/jcwz.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jcwz.js",
