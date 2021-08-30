@@ -69,7 +69,7 @@
       ],
       "settings": [
         {
-          "id": "jc_cash",
+          "id": "jc_cash"&tsll,
           "val": "0.3",
           "name": "提现金额",
           "type": "radios",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "id": "zqKkz",
+      "id": "zqKkz&tsll",
       "name": "中青看看赚",
       "keys": [
         "zqlookStartbody"
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "id": "zqSign",
+      "id": "zqSign&tsll",
       "name": "中青签到&宝箱",
       "keys": [
         "zqqdbody",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "id": "zqcookie",
+      "id": "zqcookie&tsll",
       "name": "中青火爆转发&好友签到红包&福利视频&打卡赚",
       "keys": [
         "zq_cookie"
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "id": "zqssz.js",
+      "id": "zqssz.js&tsll",
       "name": "中青搜索赚",
       "keys": [
         "zqsszbody"
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "id": "zqllz.js",
+      "id": "zqllz.js&tsll",
       "name": "中青浏览赚",
       "keys": [
         "zqllzbody"
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "id": "zq_withdraw",
+      "id": "zq_withdraw&tsll",
       "name": "中青提现",
       "keys": [
         "zq_withdraw",
@@ -179,7 +179,7 @@
       ],
       "settings": [
         {
-          "id": "zq_cash",
+          "id": "zq_cash&tsll",
           "val": "30",
           "name": "提现金额",
           "type": "radios",
