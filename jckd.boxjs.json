@@ -109,10 +109,7 @@
     {
       "id": "zqRead",
       "name": "中青自动阅读",
-      "keys": [
-        "zqwzbody",
-        "zq_timebody"
-      ],
+      "keys": ["zqwzbody","zq_timebody","zqwzbody2","zq_timebody2","zqwzbody3","zq_timebody3","zqwzbody4","zq_timebody4","zqwzbody5","zq_timebody5","zqwzbody6","zq_timebody6","zqwzbody7","zq_timebody7","zqwzbody8","zq_timebody8","zqwzbody9","zq_timebody9","zqwzbody10","zq_timebody10","zqwzbody11","zq_timebody11","zqwzbody12","zq_timebody12","zqwzbody13","zq_timebody13","zqwzbody14","zq_timebody14","zqwzbody15","zq_timebody15","zqwzbody16","zq_timebody16","zqwzbody17","zq_timebody17","zqwzbody18","zq_timebody18","zqwzbody19","zq_timebody19","zqwzbody20","zq_timebody20","zqwzbody21","zq_timebody21","zqwzbody22","zq_timebody22","zqwzbody23","zq_timebody23","zqwzbody24","zq_timebody24","zqwzbody25","zq_timebody25"],
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zqwz.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqwz.js",
       "icons": [
