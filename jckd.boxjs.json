@@ -69,7 +69,7 @@
       ],
       "settings": [
         {
-          "id": "jc_cash"&tsll,
+          "id": "jc_cash",
           "val": "0.3",
           "name": "提现金额",
           "type": "radios",
