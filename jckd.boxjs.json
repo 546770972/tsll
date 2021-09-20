@@ -97,7 +97,7 @@
       "id": "zqKkz&tsll",
       "name": "中青看看赚",
       "keys": [
-        "zqlookStartbody","zqlookStartbody2","zqlookStartbody3","zqlookStartbody4"
+        "zqlookStartbody","zqlookStartbody2","zqlookStartbody3","zqlookStartbody4","zqlookStartbody5","zqlookStartbody6","zqlookStartbody7"
       ],
       "repo": "https://github.com/shaolin-kongfu/js_scripts/blob/main/zq/zqkkz.js",
       "script": "https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqkkz.js",
@@ -135,7 +135,7 @@
       "id": "zqcookie&tsll",
       "name": "中青火爆转发&好友签到红包&福利视频&打卡赚",
       "keys": [
-        "zq_cookie","zq_cookie2","zq_cookie3"
+        "zq_cookie","zq_cookie2","zq_cookie3","zq_cookie4"
       ],
       "repo": "https://github.com/shaolin-kongfu/js_scripts/tree/main/zq",
       "script": "https://github.com/shaolin-kongfu/js_scripts/tree/main/zq",
