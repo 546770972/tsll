@@ -493,31 +493,34 @@
             "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.js",
             "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.png"],
             "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.js"
-        },
-    {
-            "id": "yydxny",
-            "name": "爷爷小农院",
-            "keys": ["yyxnyhd", "yyxnyhd2", "yyxnyhd3","yyxnyhd4","yyxnyhd5", "yyxnyhd6", "yyxnyhd7","yyxnyhd8","yyxnyhd9","yyxnyhd10","yyxnyhd11","yyxnyhd12","yyxnyhd13","yyxnyhd14","yyxnyhd15","yyxnyhd16","yyxnyhd17","yyxnyhd18","yyxnyhd19","yyxnyhd20","yyxnyhd21","yyxnyhd22","yyxnyhd23","yyxnyhd24","yyxnyhd25"],
-            "author": "@tsll",
-            "settings": [{
-            "id": "yyxnystatus",
-            "name": "当前账号",
-            "val": "1",
-            "type": "number",
-            "desc": "当前账号对应"
-    },
-    {
-            "id": "yyxnycount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-    }],
-            "repo": "http://nm66.top/yydxny.js",
-            "icons": ["http://nm66.top/1.jpg", "http://nm66.top/1.jpg"],
-            "script": "http://nm66.top/yydxny.js"
-
-    }
+        },{
+    "id": "ysy&tsll",
+        "name": "萤石云",
+            "keys": ["ysyhd","ysybody","cookie","txbody","ysyhd2","ysybody2","cookie2","txbody2","ysyhd3","ysybody3","cookie3","txbody3","ysyhd4","ysybody4","cookie4","txbody4","ysyhd5","ysybody5","cookie5","txbody5","ysyhd6","ysybody6","cookie6","txbody6","ysyhd7","ysybody7","cookie7","txbody7","ysyhd8","ysybody8","cookie8","txbody8","ysyhd9","ysybody9","cookie9","txbody9","ysyhd10","ysybody10","cookie10","txbody10","ysyhd11","ysybody11","cookie11","txbody11","ysyhd12","ysybody12","cookie12","txbody12","ysyhd13","ysybody13","cookie13","txbody13","ysyhd14","ysybody14","cookie14","txbody14","ysyhd15","ysybody15","cookie15","txbody15","ysyhd16","ysybody16","cookie16","txbody16","ysyhd17","ysybody17","cookie17","txbody17","ysyhd18","ysybody18","cookie18","txbody18","ysyhd19","ysybody19","cookie19","txbody19","ysyhd20","ysybody20","cookie20","txbody20","ysyhd21","ysybody21","cookie21","txbody21","ysyhd22","ysybody22","cookie22","txbody22","ysyhd23","ysybody23","cookie23","txbody23","ysyhd24","ysybody24","cookie24","txbody24","ysyhd25","ysybody25","cookie25","txbody25","ysyhd26","ysybody26","cookie26","txbody26","ysyhd27","ysybody27","cookie27","txbody27","ysyhd28","ysybody28","cookie28","txbody28","ysyhd29","ysybody29","cookie29","txbody29","ysyhd30","ysybody30","cookie30","txbody30"],
+                "author": "@tsll",
+                    "settings": [{
+                        "id": "ysystatus",
+                        "name": "当前账号",
+                        "val": "1",
+                        "type": "number",
+                        "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
+                    }, {
+                        "id": "ysycount",
+                        "name": "账号个数",
+                        "val": "1",
+                        "type": "number",
+                        "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    }, {
+                        "id": "tz",
+                        "name": "通知",
+                        "val": "1",
+                        "type": "number",
+                        "desc": "0关闭通知，1打开通知"
+                    }],
+                        "repo": "https://github.com/YaphetS0903/JStest/blob/main/ysy.js",
+            "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
+            "script": "https://raw.githubusercontent.com/YaphetS0903/JStest/main/ysy.js"
+  }
   ]
   
 }
