@@ -520,7 +520,45 @@
                         "repo": "https://github.com/YaphetS0903/JStest/blob/main/ysy.js",
             "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
             "script": "https://raw.githubusercontent.com/YaphetS0903/JStest/main/ysy.js"
-  }
+  },
+	{
+        "id": "ykdapp&tsll",
+        "name": "悦看点APP",
+        "keys": ["ykdhd","ykdhd2","ykdhd3","ykdhd4","ykdhd5","ykdhd6","ykdhd7","ykdhd8","ykdhd9","ykdhd10","ykdhd11","ykdhd12","ykdhd13","ykdhd14","ykdhd15","ykdhd16","ykdhd17","ykdhd18","ykdhd19","ykdhd20","ykdhd21","ykdhd22","ykdhd23","ykdhd24","ykdhd25","ykdhd26","ykdhd27","ykdhd28","ykdhd29","ykdhd30"],
+        "settings": [{
+          "id": "ykdstatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
+        },
+		{
+            "id": "ykdcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+        }, {
+            "id": "ykdhd",
+            "name": "悦看点hd信息1",
+            "val": "",
+            "type": "text",
+            "desc": ""
+        }
+		, {
+            "id": "ykdhd2",
+            "name": "悦看点hd信息2",
+            "val": "",
+            "type": "text",
+            "desc": ""
+        }],
+        "icons": [
+            "https://yuekandian.yichengw.cn/assets/logo1.png",
+            "https://yuekandian.yichengw.cn/assets/logo1.png"],
+        "author": "@byxiaopeng",
+        "repo": "https://github.com/byxiaopeng/myscripts",
+        "script": "https://raw.fastgit.org/byxiaopeng/myscripts/main/xmyd.js"
+    }
   ]
   
 }
