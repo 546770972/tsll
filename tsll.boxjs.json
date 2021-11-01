@@ -5,95 +5,64 @@
   "icon": "https://raw.githubusercontent.com/546770972/tsll/main/IMG_1383.PNG",
   "repo": "https://raw.githubusercontent.com/546770972/zgllogo",
   "apps": [
-   {
-      "id": "tsllshuqi",
-      "name": "凉凉书旗",
-      "keys": ["readuploadbody", "readuploadkey", "boxtaskbody", "boxtaskkey", "loadresourcebody", "loadresourcekey", "sploadresourcebody", "sploadresourcekey", "withdrawbody", "bubblebody", "receivebody", "signinactionbody", "readlotterybody", "videolotterybody", "luckylotterybody", "luckyredurl", "luckyredbody", "sharebody", "booktaskurl", "booktaskbody", "spsigninactionbody", "spreadcoinurl", "spreadcoinbody", "sp1videocoinbody", "sp2videocoinbody", "spsharebody", "lotteryinfourl", "videoinfourl", "spvideoinfourl", "readuploadbody2", "readuploadkey2", "boxtaskbody2", "boxtaskkey2", "loadresourcebody2", "loadresourcekey2", "sploadresourcebody2", "sploadresourcekey2", "withdrawbody2", "bubblebody2", "receivebody2", "signinactionbody2", "readlotterybody2", "videolotterybody2", "luckylotterybody2", "luckyredurl2", "luckyredbody2", "sharebody2", "booktaskurl2", "booktaskbody2", "spsigninactionbody2", "spreadcoinurl2", "spreadcoinbody2", "sp1videocoinbody2", "sp2videocoinbody2", "spsharebody2", "lotteryinfourl2", "videoinfourl2", "spvideoinfourl2", "readuploadbody3", "readuploadkey3", "boxtaskbody3", "boxtaskkey3", "loadresourcebody3", "loadresourcekey3", "sploadresourcebody3", "sploadresourcekey3", "withdrawbody3", "bubblebody3", "receivebody3", "signinactionbody3", "readlotterybody3", "videolotterybody3", "luckylotterybody3", "luckyredurl3", "luckyredbody3", "sharebody3", "booktaskurl3", "booktaskbody3", "spsigninactionbody3", "spreadcoinurl3", "spreadcoinbody3", "sp1videocoinbody3", "sp2videocoinbody3", "spsharebody3", "lotteryinfourl3", "videoinfourl3", "spvideoinfourl3", "readuploadbody4", "readuploadkey4", "boxtaskbody4", "boxtaskkey4", "loadresourcebody4", "loadresourcekey4", "sploadresourcebody4", "sploadresourcekey4", "withdrawbody4", "bubblebody4", "receivebody4", "signinactionbody4", "readlotterybody4", "videolotterybody4", "luckylotterybody4", "luckyredurl4", "luckyredbody4", "sharebody4", "booktaskurl4", "booktaskbody4", "spsigninactionbody4", "spreadcoinurl4", "spreadcoinbody4", "sp1videocoinbody4", "sp2videocoinbody4", "spsharebody4", "lotteryinfourl4", "videoinfourl4", "spvideoinfourl4", "readuploadbody5", "readuploadkey5", "boxtaskbody5", "boxtaskkey5", "loadresourcebody5", "loadresourcekey5", "sploadresourcebody5", "sploadresourcekey5", "withdrawbody5", "bubblebody5", "receivebody5", "signinactionbody5", "readlotterybody5", "videolotterybody5", "luckylotterybody5", "luckyredurl5", "luckyredbody5", "sharebody5", "booktaskurl5", "booktaskbody5", "spsigninactionbody5", "spreadcoinurl5", "spreadcoinbody5", "sp1videocoinbody5", "sp2videocoinbody5", "spsharebody5", "lotteryinfourl5", "videoinfourl5", "spvideoinfourl5", "readuploadbody6", "readuploadkey6", "boxtaskbody6", "boxtaskkey6", "loadresourcebody6", "loadresourcekey6", "sploadresourcebody6", "sploadresourcekey6", "withdrawbody6", "bubblebody6", "receivebody6", "signinactionbody6", "readlotterybody6", "videolotterybody6", "luckylotterybody6", "luckyredurl6", "luckyredbody6", "sharebody6", "booktaskurl6", "booktaskbody6", "spsigninactionbody6", "spreadcoinurl6", "spreadcoinbody6", "sp1videocoinbody6", "sp2videocoinbody6", "spsharebody6", "lotteryinfourl6", "videoinfourl6", "spvideoinfourl6", "readuploadbody7", "readuploadkey7", "boxtaskbody7", "boxtaskkey7", "loadresourcebody7", "loadresourcekey7", "sploadresourcebody7", "sploadresourcekey7", "withdrawbody7", "bubblebody7", "receivebody7", "signinactionbody7", "readlotterybody7", "videolotterybody7", "luckylotterybody7", "luckyredurl7", "luckyredbody7", "sharebody7", "booktaskurl7", "booktaskbody7", "spsigninactionbody7", "spreadcoinurl7", "spreadcoinbody7", "sp1videocoinbody7", "sp2videocoinbody7", "spsharebody7", "lotteryinfourl7", "videoinfourl7", "spvideoinfourl7", "readuploadbody8", "readuploadkey8", "boxtaskbody8", "boxtaskkey8", "loadresourcebody8", "loadresourcekey8", "sploadresourcebody8", "sploadresourcekey8", "withdrawbody8", "bubblebody8", "receivebody8", "signinactionbody8", "readlotterybody8", "videolotterybody8", "luckylotterybody8", "luckyredurl8", "luckyredbody8", "sharebody8", "booktaskurl8", "booktaskbody8", "spsigninactionbody8", "spreadcoinurl8", "spreadcoinbody8", "sp1videocoinbody8", "sp2videocoinbody8", "spsharebody8", "lotteryinfourl8", "videoinfourl8", "spvideoinfourl8", "readuploadbody9", "readuploadkey9", "boxtaskbody9", "boxtaskkey9", "loadresourcebody9", "loadresourcekey9", "sploadresourcebody9", "sploadresourcekey9", "withdrawbody9", "bubblebody9", "receivebody9", "signinactionbody9", "readlotterybody9", "videolotterybody9", "luckylotterybody9", "luckyredurl9", "luckyredbody9", "sharebody9", "booktaskurl9", "booktaskbody9", "spsigninactionbody9", "spreadcoinurl9", "spreadcoinbody9", "sp1videocoinbody9", "sp2videocoinbody9", "spsharebody9", "lotteryinfourl9", "videoinfourl9", "spvideoinfourl9", "readuploadbody10", "readuploadkey10", "boxtaskbody10", "boxtaskkey10", "loadresourcebody10", "loadresourcekey10", "sploadresourcebody10", "sploadresourcekey10", "withdrawbody10", "bubblebody10", "receivebody10", "signinactionbody10", "readlotterybody10", "videolotterybody10", "luckylotterybody10", "luckyredurl10", "luckyredbody10", "sharebody10", "booktaskurl10", "booktaskbody10", "spsigninactionbody10", "spreadcoinurl10", "spreadcoinbody10", "sp1videocoinbody10", "sp2videocoinbody10", "spsharebody10", "lotteryinfourl10", "videoinfourl10", "spvideoinfourl10", "readuploadbody11", "readuploadkey11", "boxtaskbody11", "boxtaskkey11", "loadresourcebody11", "loadresourcekey11", "sploadresourcebody11", "sploadresourcekey11", "withdrawbody11", "bubblebody11", "receivebody11", "signinactionbody11", "readlotterybody11", "videolotterybody11", "luckylotterybody11", "luckyredurl11", "luckyredbody11", "sharebody11", "booktaskurl11", "booktaskbody11", "spsigninactionbody11", "spreadcoinurl11", "spreadcoinbody11", "sp1videocoinbody11", "sp2videocoinbody11", "spsharebody11", "lotteryinfourl11", "videoinfourl11", "spvideoinfourl11", "readuploadbody12", "readuploadkey12", "boxtaskbody12", "boxtaskkey12", "loadresourcebody12", "loadresourcekey12", "sploadresourcebody12", "sploadresourcekey12", "withdrawbody12", "bubblebody12", "receivebody12", "signinactionbody12", "readlotterybody12", "videolotterybody12", "luckylotterybody12", "luckyredurl12", "luckyredbody12", "sharebody12", "booktaskurl12", "booktaskbody12", "spsigninactionbody12", "spreadcoinurl12", "spreadcoinbody12", "sp1videocoinbody12", "sp2videocoinbody12", "spsharebody12", "lotteryinfourl12", "videoinfourl12", "spvideoinfourl12", "readuploadbody13", "readuploadkey13", "boxtaskbody13", "boxtaskkey13", "loadresourcebody13", "loadresourcekey13", "sploadresourcebody13", "sploadresourcekey13", "withdrawbody13", "bubblebody13", "receivebody13", "signinactionbody13", "readlotterybody13", "videolotterybody13", "luckylotterybody13", "luckyredurl13", "luckyredbody13", "sharebody13", "booktaskurl13", "booktaskbody13", "spsigninactionbody13", "spreadcoinurl13", "spreadcoinbody13", "sp1videocoinbody13", "sp2videocoinbody13", "spsharebody13", "lotteryinfourl13", "videoinfourl13", "spvideoinfourl13", "readuploadbody14", "readuploadkey14", "boxtaskbody14", "boxtaskkey14", "loadresourcebody14", "loadresourcekey14", "sploadresourcebody14", "sploadresourcekey14", "withdrawbody14", "bubblebody14", "receivebody14", "signinactionbody14", "readlotterybody14", "videolotterybody14", "luckylotterybody14", "luckyredurl14", "luckyredbody14", "sharebody14", "booktaskurl14", "booktaskbody14", "spsigninactionbody14", "spreadcoinurl14", "spreadcoinbody14", "sp1videocoinbody14", "sp2videocoinbody14", "spsharebody14", "lotteryinfourl14", "videoinfourl14", "spvideoinfourl14", "readuploadbody15", "readuploadkey15", "boxtaskbody15", "boxtaskkey15", "loadresourcebody15", "loadresourcekey15", "sploadresourcebody15", "sploadresourcekey15", "withdrawbody15", "bubblebody15", "receivebody15", "signinactionbody15", "readlotterybody15", "videolotterybody15", "luckylotterybody15", "luckyredurl15", "luckyredbody15", "sharebody15", "booktaskurl15", "booktaskbody15", "spsigninactionbody15", "spreadcoinurl15", "spreadcoinbody15", "sp1videocoinbody15", "sp2videocoinbody15", "spsharebody15", "lotteryinfourl15", "videoinfourl15", "spvideoinfourl15", "readuploadbody16", "readuploadkey16", "boxtaskbody16", "boxtaskkey16", "loadresourcebody16", "loadresourcekey16", "sploadresourcebody16", "sploadresourcekey16", "withdrawbody16", "bubblebody16", "receivebody16", "signinactionbody16", "readlotterybody16", "videolotterybody16", "luckylotterybody16", "luckyredurl16", "luckyredbody16", "sharebody16", "booktaskurl16", "booktaskbody16", "spsigninactionbody16", "spreadcoinurl16", "spreadcoinbody16", "sp1videocoinbody16", "sp2videocoinbody16", "spsharebody16", "lotteryinfourl16", "videoinfourl16", "spvideoinfourl16", "readuploadbody17", "readuploadkey17", "boxtaskbody17", "boxtaskkey17", "loadresourcebody17", "loadresourcekey17", "sploadresourcebody17", "sploadresourcekey17", "withdrawbody17", "bubblebody17", "receivebody17", "signinactionbody17", "readlotterybody17", "videolotterybody17", "luckylotterybody17", "luckyredurl17", "luckyredbody17", "sharebody17", "booktaskurl17", "booktaskbody17", "spsigninactionbody17", "spreadcoinurl17", "spreadcoinbody17", "sp1videocoinbody17", "sp2videocoinbody17", "spsharebody17", "lotteryinfourl17", "videoinfourl17", "spvideoinfourl17", "readuploadbody18", "readuploadkey18", "boxtaskbody18", "boxtaskkey18", "loadresourcebody18", "loadresourcekey18", "sploadresourcebody18", "sploadresourcekey18", "withdrawbody18", "bubblebody18", "receivebody18", "signinactionbody18", "readlotterybody18", "videolotterybody18", "luckylotterybody18", "luckyredurl18", "luckyredbody18", "sharebody18", "booktaskurl18", "booktaskbody18", "spsigninactionbody18", "spreadcoinurl18", "spreadcoinbody18", "sp1videocoinbody18", "sp2videocoinbody18", "spsharebody18", "lotteryinfourl18", "videoinfourl18", "spvideoinfourl18", "readuploadbody19", "readuploadkey19", "boxtaskbody19", "boxtaskkey19", "loadresourcebody19", "loadresourcekey19", "sploadresourcebody19", "sploadresourcekey19", "withdrawbody19", "bubblebody19", "receivebody19", "signinactionbody19", "readlotterybody19", "videolotterybody19", "luckylotterybody19", "luckyredurl19", "luckyredbody19", "sharebody19", "booktaskurl19", "booktaskbody19", "spsigninactionbody19", "spreadcoinurl19", "spreadcoinbody19", "sp1videocoinbody19", "sp2videocoinbody19", "spsharebody19", "lotteryinfourl19", "videoinfourl19", "spvideoinfourl19", "readuploadbody20", "readuploadkey20", "boxtaskbody20", "boxtaskkey20", "loadresourcebody20", "loadresourcekey20", "sploadresourcebody20", "sploadresourcekey20", "withdrawbody20", "bubblebody20", "receivebody20", "signinactionbody20", "readlotterybody20", "videolotterybody20", "luckylotterybody20", "luckyredurl20", "luckyredbody20", "sharebody20", "booktaskurl20", "booktaskbody20", "spsigninactionbody20", "spreadcoinurl20", "spreadcoinbody20", "sp1videocoinbody20", "sp2videocoinbody20", "spsharebody20", "lotteryinfourl20", "videoinfourl20", "spvideoinfourl20", "readuploadbody21", "readuploadkey21", "boxtaskbody21", "boxtaskkey21", "loadresourcebody21", "loadresourcekey21", "sploadresourcebody21", "sploadresourcekey21", "withdrawbody21", "bubblebody21", "receivebody21", "signinactionbody21", "readlotterybody21", "videolotterybody21", "luckylotterybody21", "luckyredurl21", "luckyredbody21", "sharebody21", "booktaskurl21", "booktaskbody21", "spsigninactionbody21", "spreadcoinurl21", "spreadcoinbody21", "sp1videocoinbody21", "sp2videocoinbody21", "spsharebody21", "lotteryinfourl21", "videoinfourl21", "spvideoinfourl21", "readuploadbody22", "readuploadkey22", "boxtaskbody22", "boxtaskkey22", "loadresourcebody22", "loadresourcekey22", "sploadresourcebody22", "sploadresourcekey22", "withdrawbody22", "bubblebody22", "receivebody22", "signinactionbody22", "readlotterybody22", "videolotterybody22", "luckylotterybody22", "luckyredurl22", "luckyredbody22", "sharebody22", "booktaskurl22", "booktaskbody22", "spsigninactionbody22", "spreadcoinurl22", "spreadcoinbody22", "sp1videocoinbody22", "sp2videocoinbody22", "spsharebody22", "lotteryinfourl22", "videoinfourl22", "spvideoinfourl22", "readuploadbody23", "readuploadkey23", "boxtaskbody23", "boxtaskkey23", "loadresourcebody23", "loadresourcekey23", "sploadresourcebody23", "sploadresourcekey23", "withdrawbody23", "bubblebody23", "receivebody23", "signinactionbody23", "readlotterybody23", "videolotterybody23", "luckylotterybody23", "luckyredurl23", "luckyredbody23", "sharebody23", "booktaskurl23", "booktaskbody23", "spsigninactionbody23", "spreadcoinurl23", "spreadcoinbody23", "sp1videocoinbody23", "sp2videocoinbody23", "spsharebody23", "lotteryinfourl23", "videoinfourl23", "spvideoinfourl23", "readuploadbody24", "readuploadkey24", "boxtaskbody24", "boxtaskkey24", "loadresourcebody24", "loadresourcekey24", "sploadresourcebody24", "sploadresourcekey24", "withdrawbody24", "bubblebody24", "receivebody24", "signinactionbody24", "readlotterybody24", "videolotterybody24", "luckylotterybody24", "luckyredurl24", "luckyredbody24", "sharebody24", "booktaskurl24", "booktaskbody24", "spsigninactionbody24", "spreadcoinurl24", "spreadcoinbody24", "sp1videocoinbody24", "sp2videocoinbody24", "spsharebody24", "lotteryinfourl24", "videoinfourl24", "spvideoinfourl24", "readuploadbody25", "readuploadkey25", "boxtaskbody25", "boxtaskkey25", "loadresourcebody25", "loadresourcekey25", "sploadresourcebody25", "sploadresourcekey25", "withdrawbody25", "bubblebody25", "receivebody25", "signinactionbody25", "readlotterybody25", "videolotterybody25", "luckylotterybody25", "luckyredurl25", "luckyredbody25", "sharebody25", "booktaskurl25", "booktaskbody25", "spsigninactionbody25", "spreadcoinurl25", "spreadcoinbody25", "sp1videocoinbody25", "sp2videocoinbody25", "spsharebody25", "lotteryinfourl25", "videoinfourl25", "spvideoinfourl25"],
-      "author": "@tsll",
-    "settings": [
-
-      {
-        "id": "shuqiappSuffix",
-        "name": "当前抓取ck账号",
-        "val": "1",
-        "type": "number",
-        "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
-      }, {
-        "id": "shuqiappCount",
-        "name": "脚本执行账号个数",
-        "val": "1",
-        "type": "number",
-        "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-      }, {
-        "id": "mymaxtime",
-        "name": "阅读时长最大值:阅读挑战赛建议设置360。",
-        "val": "",
-        "type": "text",
-        "desc": "默认180,需要突破限制请添加数字。"
-      }
-    ],
-            "repo": "https://raw.githubusercontent.com/546770972/zgllogo",
-            "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png"],
-            "script": "https://raw.githubusercontent.com/546770972/zgllogo/main/shuqi.js"
-    },
-    {
-    "id": "jscfz&tsll",
-    "name": "嘉实宠粉站",
-    "keys": ["jscfzheader","jscfzheader2","jscfzheader3","jscfzheader4","jscfzheader5","jscfzheader6","jscfzheader7","jscfzheader8","jscfzheader9","jscfzheader10","jscfzheader11","jscfzheader12","jscfzheader13","jscfzheader14","jscfzheader15","jscfzheader16","jscfzheader17","jscfzheader18","jscfzheader19","jscfzheader20","jscfzheader21","jscfzheader22","jscfzheader23","jscfzheader24","jscfzheader25","jscfzheader26","jscfzheader27","jscfzheader28","jscfzheader29","jscfzheader30"],
-    "author": "@tsll",
-    "settings": [{
-      "id": "jscfzSuffix",
-      "name": "当前账号",
-      "val": "1",
-      "type": "number",
-      "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
-    }, {
-      "id": "jscfzCount",
-      "name": "账号个数",
-      "val": "1",
-      "type": "number",
-      "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-    }, {
-      "id": "jscfzXH",
-      "name": "循环获取ck",
-      "val": "0",
-      "type": "number",
-      "desc": "0关闭，1打开，默认关闭"
-    }, {
-      "id": "jscfzTXTX",
-      "name": "txtx",
-      "val": "0",
-      "type": "number",
-      "desc": "0关闭，1打开，默认关闭"
-    }, {
-      "id": "jscfzSC",
-      "name": "sc",
-      "val": "0",
-      "type": "number",
-      "desc": "0关闭，1打开，默认关闭"
-    }, {
-      "id": "jscfznotifyttt",
-      "name": "推送控制",
-      "val": "1",
-      "type": "number",
-      "desc": "0关闭，1推送,默认12点以及23点推送"
-    }, {
-      "id": "jscfznotifyInterval",
-      "name": "通知控制",
-      "val": "2",
-      "type": "number",
-      "desc": "0关闭，1为 所有通知，2为 12，23 点通知，3为 6，12，18，23 点通知"
-    }, {
-      "id": "jscfzMinutes",
-      "name": "推送-通知 分钟控制",
-      "val": "10",
-      "type": "number",
-      "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
-    }],
-    "repo": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js",
-    "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
-    "script": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js"
-    },
+{
+            "id": "znxq&tsll",
+            "name": "臻浓星球",
+            "keys": ["znxqheader", "znxqheader2", "znxqheader3", "znxqheader4", "znxqheader5", "znxqheader6", "znxqheader7", "znxqheader8", "znxqheader9", "znxqheader10", "znxqheader11", "znxqheader12", "znxqheader13", "znxqheader14", "znxqheader15", "znxqheader16", "znxqheader17", "znxqheader18", "znxqheader19", "znxqheader20", "znxqheader21", "znxqheader22", "znxqheader23", "znxqheader24", "znxqheader25", "znxqheader26", "znxqheader27", "znxqheader28", "znxqheader29", "znxqheader30"],
+            "author": "@ziye",
+            "settings": [{
+                    "id": "znxqSuffix",
+                    "name": "当前账号",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "当前抓取ck记录的账号序号，如：1、2、3、"
+                },
+                {
+                    "id": "znxqCount",
+                    "name": "账号个数",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                },
+                {
+                    "id": "znxqXH",
+                    "name": "循环获取CK",
+                    "val": "0",
+                    "type": "number",
+                    "desc": "0关闭 1开启,默认关闭"
+                }, 
+                {
+                    "id": "znxqXYZ",
+                    "name": "执行概率",
+                    "val": "100",
+                    "type": "number",
+                    "desc": "0不执行 可设置0-100,默认百分百"
+                },
+                {
+                    "id": "znxqnotifyttt",
+                    "name": "推送控制",
+                    "val": "1",
+                    "type": "number",
+                    "desc": "0关闭，1推送,默认12点以及23点推送"
+                },
+                {
+                    "id": "znxqnotifyInterval",
+                    "name": "通知控制",
+                    "val": "2",
+                    "type": "number",
+                    "desc": "0关闭，1为 所有通知，2为 12，23 点通知，3为 6，12，18，23 点通知 "
+                },
+                {
+                    "id": "znxqMinutes",
+                    "name": "推送-通知 分钟控制",
+                    "val": "10",
+                    "type": "number",
+                    "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
+                }],
+            "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.js",
+            "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.png"],
+            "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.js"
+        },
        {
       "id": "jztt&tsll",
   "name": "九章头条",
