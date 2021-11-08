@@ -608,6 +608,33 @@
                         "repo": "https://github.com/YaphetS0903/JStest/blob/main/flg.js",
             "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
             "script": "https://raw.githubusercontent.com/YaphetS0903/JStest/main/flg.js"
+  },{
+    "id": "flhs&tsll",
+        "name": "返利好省",
+            "keys": ["flhsCookie","flhsCookie2","flhsCookie3","flhsCookie4","flhsCookie5","flhsCookie6","flhsCookie7","flhsCookie8","flhsCookie9","flhsCookie10","flhsCookie11","flhsCookie12","flhsCookie13","flhsCookie14","flhsCookie15","flhsCookie16","flhsCookie17","flhsCookie18","flhsCookie19","flhsCookie20","flhsCookie21","flhsCookie22","flhsCookie23","flhsCookie24","flhsCookie25","flhsCookie26","flhsCookie27","flhsCookie28","flhsCookie29","flhsCookie30"],
+                "author": "@tsll",
+                    "settings": [{
+                        "id": "flhsstatus",
+                        "name": "当前账号",
+                        "val": "1",
+                        "type": "number",
+                        "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
+                    }, {
+                        "id": "flhscount",
+                        "name": "账号个数",
+                        "val": "1",
+                        "type": "number",
+                        "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+                    }, {
+                        "id": "tz",
+                        "name": "通知",
+                        "val": "1",
+                        "type": "number",
+                        "desc": "0关闭通知，1打开通知"
+                    }],
+                        "repo": "https://github.com/YaphetS0903/JStest/blob/main/flhs.js",
+            "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
+            "script": "https://raw.githubusercontent.com/YaphetS0903/JStest/main/flhs.js"
   }
   ]
   
