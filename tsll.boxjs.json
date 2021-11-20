@@ -489,45 +489,7 @@
                         "repo": "https://github.com/YaphetS0903/JStest/blob/main/ysy.js",
             "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
             "script": "https://raw.githubusercontent.com/YaphetS0903/JStest/main/ysy.js"
-  },
-	{
-        "id": "ykdapp&tsll",
-        "name": "悦看点APP",
-        "keys": ["ykdhd","ykdhd2","ykdhd3","ykdhd4","ykdhd5","ykdhd6","ykdhd7","ykdhd8","ykdhd9","ykdhd10","ykdhd11","ykdhd12","ykdhd13","ykdhd14","ykdhd15","ykdhd16","ykdhd17","ykdhd18","ykdhd19","ykdhd20","ykdhd21","ykdhd22","ykdhd23","ykdhd24","ykdhd25","ykdhd26","ykdhd27","ykdhd28","ykdhd29","ykdhd30"],
-        "settings": [{
-          "id": "ykdstatus",
-          "name": "当前账号",
-          "val": "1",
-          "type": "number",
-          "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
-        },
-		{
-            "id": "ykdcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-        }, {
-            "id": "ykdhd",
-            "name": "悦看点hd信息1",
-            "val": "",
-            "type": "text",
-            "desc": ""
-        }
-		, {
-            "id": "ykdhd2",
-            "name": "悦看点hd信息2",
-            "val": "",
-            "type": "text",
-            "desc": ""
-        }],
-        "icons": [
-            "https://yuekandian.yichengw.cn/assets/logo1.png",
-            "https://yuekandian.yichengw.cn/assets/logo1.png"],
-        "author": "@byxiaopeng",
-        "repo": "https://github.com/byxiaopeng/myscripts",
-        "script": "https://raw.fastgit.org/byxiaopeng/myscripts/main/xmyd.js"
-    },{
+  },{
     "id": "zfxs&tsll",
         "name": "追疯小说",
             "keys": ["zfxshd","zfxshd2","zfxshd3","zfxshd4","zfxshd5","zfxshd6","zfxshd7","zfxshd8","zfxshd9","zfxshd10","zfxshd11","zfxshd12","zfxshd13","zfxshd14","zfxshd15","zfxshd16","zfxshd17","zfxshd18","zfxshd19","zfxshd20","zfxshd21","zfxshd22","zfxshd23","zfxshd24","zfxshd25","zfxshd26","zfxshd27","zfxshd28","zfxshd29","zfxshd30"],
@@ -688,6 +650,91 @@
       "val": "10",
       "type": "number",
       "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
+    },
+    {
+        "id": "hdapp",
+        "name": "鸿答APP",
+        "keys": ["hdPhone","hdPhone2"],
+        "settings": [{
+            "id": "hdcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
+        }, {
+            "id": "hdPhone",
+            "name": "鸿答APP账户密码1",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }
+		, {
+            "id": "hdPhone2",
+            "name": "鸿答APP账户密码2",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone3",
+            "name": "鸿答APP账户密码3",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone4",
+            "name": "鸿答APP账户密码4",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone5",
+            "name": "鸿答APP账户密码5",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone6",
+            "name": "鸿答APP账户密码6",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone7",
+            "name": "鸿答APP账户密码7",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone8",
+            "name": "鸿答APP账户密码8",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone9",
+            "name": "鸿答APP账户密码9",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone10",
+            "name": "鸿答APP账户密码10",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone11",
+            "name": "鸿答APP账户密码11",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }],
+        "icons": [
+            "https://ls.hzyuechuang.com/favicon.ico",
+            "https://ls.hzyuechuang.com/favicon.ico"],
+        "author": "@byxiaopeng",
+        "repo": "https://github.com/byxiaopeng/myscripts",
+        "script": "https://cdn.jsdelivr.net/gh/byxiaopeng/myscripts@main/hdapp.js"
     }],
     "repo": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js",
     "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
