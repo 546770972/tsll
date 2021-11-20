@@ -652,7 +652,7 @@
       "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
     },
     {
-        "id": "hdapp",
+        "id": "hdapp&tsll",
         "name": "鸿答APP",
         "keys": ["hdPhone","hdPhone2"],
         "settings": [{
