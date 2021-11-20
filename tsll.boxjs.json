@@ -650,11 +650,15 @@
       "val": "10",
       "type": "number",
       "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
+    }],
+    "repo": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js",
+    "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
+    "script": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js"
     },
     {
         "id": "hdapp&tsll",
         "name": "鸿答APP",
-        "keys": ["hdPhone","hdPhone2"],
+        "keys": ["hdPhone","hdPhone2","hdPhone3","hdPhone4","hdPhone5","hdPhone6","hdPhone7","hdPhone8","hdPhone9","hdPhone10","hdPhone11"],
         "settings": [{
             "id": "hdcount",
             "name": "账号个数",
@@ -735,10 +739,6 @@
         "author": "@byxiaopeng",
         "repo": "https://github.com/byxiaopeng/myscripts",
         "script": "https://cdn.jsdelivr.net/gh/byxiaopeng/myscripts@main/hdapp.js"
-    }],
-    "repo": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js",
-    "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
-    "script": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js"
     }
   ]
   
