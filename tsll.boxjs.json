@@ -809,7 +809,7 @@
 	{
             "id":"dawapp&tsll",
             "name":"都爱玩",
-            "keys":["dawToken","dawToken2","dawToken3","dawToken4","dawToken5","dawToken6","dawToken7","dawToken8","dawToken9","dawToken10","dawToken11","dawToken12","dawToken13","dawToken14","dawToken15","dawToken16","dawToken17","dawToken18","dawToken19","dawToken20","dawToken21","dawToken222","dawToken23","dawToken24","dawToken25","dawToken26","dawToken7","dawToken28","dawToken29","dawToken30"],
+            "keys":["dawToken"],
             "settings": [{
                 "id": "dawuserck",
                 "name": "当前账号",
