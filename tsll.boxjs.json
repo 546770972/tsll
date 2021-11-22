@@ -658,7 +658,7 @@
     {
         "id": "hdapp&tsll",
         "name": "鸿答APP",
-        "keys": ["hdPhone","hdPhone2","hdPhone3","hdPhone4","hdPhone5","hdPhone6","hdPhone7","hdPhone8","hdPhone9","hdPhone10","hdPhone11"],
+        "keys": ["hdPhone","hdPhone2","hdPhone3","hdPhone4","hdPhone5","hdPhone6","hdPhone7","hdPhone8","hdPhone9","hdPhone10","hdPhone11","hdPhone12","hdPhone13","hdPhone14","hdPhone15","hdPhone16","hdPhone17","hdPhone18","hdPhone19","hdPhone20","hdPhone21","hdPhone22"],
         "settings": [{
             "id": "hdcount",
             "name": "账号个数",
@@ -729,6 +729,72 @@
         }, {
             "id": "hdPhone11",
             "name": "鸿答APP账户密码11",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone12",
+            "name": "鸿答APP账户密码12",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone13",
+            "name": "鸿答APP账户密码13",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone14",
+            "name": "鸿答APP账户密码14",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone15",
+            "name": "鸿答APP账户密码15",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone16",
+            "name": "鸿答APP账户密码16",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone17",
+            "name": "鸿答APP账户密码17",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone18",
+            "name": "鸿答APP账户密码18",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone19",
+            "name": "鸿答APP账户密码19",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone20",
+            "name": "鸿答APP账户密码20",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone21",
+            "name": "鸿答APP账户密码21",
+            "val": "",
+            "type": "text",
+            "desc": "手机账户#密码"
+        }, {
+            "id": "hdPhone22",
+            "name": "鸿答APP账户密码22",
             "val": "",
             "type": "text",
             "desc": "手机账户#密码"
