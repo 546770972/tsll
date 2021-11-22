@@ -805,7 +805,26 @@
         "author": "@byxiaopeng",
         "repo": "https://github.com/byxiaopeng/myscripts",
         "script": "https://cdn.jsdelivr.net/gh/byxiaopeng/myscripts@main/hdapp.js"
-    }
+    },
+	{
+            "id":"dawapp&tsll",
+            "name":"都爱玩",
+            "keys":["dawapp","dawapp2","dawapp3","dawapp4","dawapp5","dawapp6","dawapp7","dawapp8","dawapp9","dawapp10","dawapp11","dawapp12","dawapp13","dawapp14","dawapp15","dawapp16","dawapp17","dawapp18","dawapp19","dawapp20","dawapp21","dawapp222","dawapp23","dawapp24","dawapp25","dawapp26","dawapp7","dawapp28","dawapp29","dawapp30"],
+            "settings": [{
+                "id": "dawuserck",
+                "name": "当前账号",
+                "val": "1",
+                "type": "number",
+                "desc": "当前账号对应"
+            }],
+            "author":"@tsll",
+            "repo":"https://github.com/bluesmallpig/scripts",
+            "icons":[
+                "https://github.com/bluesmallpig/scripts/blob/main/img/daw-mini.png?raw=true",
+                "https://github.com/bluesmallpig/scripts/blob/main/img/daw.png?raw=true"
+            ],
+            "script":"https://github.com/"
+        }
   ]
   
 }
