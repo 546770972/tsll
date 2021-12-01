@@ -7,7 +7,7 @@
     {
       "name": "中青（周一翻倍）",
       "type": "cron",
-      "time": "1 6 * * 1",
+      "time": "2 6 * * 1",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zq_double.js"
@@ -16,7 +16,7 @@
     {
       "name": "中青（搜索赚）",
       "type": "cron",
-      "time": "20 6 * * *",
+      "time": "15 6 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqssz.js"
@@ -25,7 +25,7 @@
     {
       "name": "中青（浏览赚）",
       "type": "cron",
-      "time": "10 6 * * *",
+      "time": "8 6 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqllz.js"
@@ -43,7 +43,7 @@
     {
       "name": "中青(福利视频)",
       "type": "cron",
-      "time": "3 7 * * *",
+      "time": "51 7 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zq_Adv_video.js"
@@ -77,7 +77,7 @@
       }
     },
     {
-      "name": "中青（看看赚22）",
+      "name": "中青（看看赚2）",
       "type": "cron",
       "time": "2 13 * * *",
       "job": {
@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "中青（看看赚21）",
+      "name": "中青（看看赚1）",
       "type": "cron",
       "time": "1 13 * * *",
       "job": {
@@ -95,7 +95,7 @@
       }
     },
     {
-      "name": "中青（看看赚24）",
+      "name": "中青（看看赚4）",
       "type": "cron",
       "time": "4 13 * * *",
       "job": {
@@ -104,7 +104,7 @@
       }
     },
     {
-      "name": "中青（看看赚23）",
+      "name": "中青（看看赚3）",
       "type": "cron",
       "time": "3 13 * * *",
       "job": {
@@ -113,7 +113,7 @@
       }
     },
     {
-      "name": "中青（看看赚40）",
+      "name": "中青（看看赚20）",
       "type": "cron",
       "time": "20 13 * * *",
       "job": {
@@ -123,7 +123,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚39）",
+      "name": "中青（看看赚19）",
       "type": "cron",
       "time": "19 13 * * *",
       "job": {
@@ -133,7 +133,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚38）",
+      "name": "中青（看看赚18）",
       "type": "cron",
       "time": "18 13 * * *",
       "job": {
@@ -143,7 +143,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚37）",
+      "name": "中青（看看赚17）",
       "type": "cron",
       "time": "17 13 * * *",
       "job": {
@@ -153,7 +153,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚36）",
+      "name": "中青（看看赚16）",
       "type": "cron",
       "time": "16 13 * * *",
       "job": {
@@ -163,7 +163,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚35）",
+      "name": "中青（看看赚15）",
       "type": "cron",
       "time": "15 13 * * *",
       "job": {
@@ -173,7 +173,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚34）",
+      "name": "中青（看看赚14）",
       "type": "cron",
       "time": "14 13 * * *",
       "job": {
@@ -183,7 +183,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚33）",
+      "name": "中青（看看赚13）",
       "type": "cron",
       "time": "13 13 * * *",
       "job": {
@@ -193,7 +193,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚32）",
+      "name": "中青（看看赚12）",
       "type": "cron",
       "time": "12 13 * * *",
       "job": {
@@ -203,7 +203,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚31）",
+      "name": "中青（看看赚11）",
       "type": "cron",
       "time": "11 13 * * *",
       "job": {
@@ -213,7 +213,7 @@
       "running": false
     },
     {
-      "name": "中青（看看赚30）",
+      "name": "中青（看看赚10）",
       "type": "cron",
       "time": "10 13 * * *",
       "job": {
@@ -222,7 +222,7 @@
       }
     },
     {
-      "name": "中青（看看赚29）",
+      "name": "中青（看看赚9）",
       "type": "cron",
       "time": "9 13 * * *",
       "job": {
@@ -231,7 +231,7 @@
       }
     },
     {
-      "name": "中青（看看赚28）",
+      "name": "中青（看看赚8）",
       "type": "cron",
       "time": "8 13 * * *",
       "job": {
@@ -240,7 +240,7 @@
       }
     },
     {
-      "name": "中青（看看赚27）",
+      "name": "中青（看看赚7）",
       "type": "cron",
       "time": "7 13 * * *",
       "job": {
@@ -249,7 +249,7 @@
       }
     },
     {
-      "name": "中青（看看赚26）",
+      "name": "中青（看看赚6）",
       "type": "cron",
       "time": "6 13 * * *",
       "job": {
@@ -258,7 +258,7 @@
       }
     },
     {
-      "name": "中青（看看赚25）",
+      "name": "中青（看看赚5）",
       "type": "cron",
       "time": "5 13 * * *",
       "job": {
@@ -269,14 +269,14 @@
     {
       "name": "中青（安卓签到）",
       "type": "cron",
-      "time": "27 6 * * *",
+      "time": "1 6 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqqd.js"
       }
     },
     {
-      "name": "中青(21阅读)",
+      "name": "中青(1阅读)",
       "type": "cron",
       "time": "1 9,15,20 * * *",
       "job": {
@@ -285,7 +285,7 @@
       }
     },
     {
-      "name": "中青(22阅读)",
+      "name": "中青(2阅读)",
       "type": "cron",
       "time": "2 9,15,20 * * *",
       "job": {
@@ -294,7 +294,7 @@
       }
     },
     {
-      "name": "中青(23阅读)",
+      "name": "中青(3阅读)",
       "type": "cron",
       "time": "3 9,15,20 * * *",
       "job": {
@@ -303,7 +303,7 @@
       }
     },
     {
-      "name": "中青(24阅读)",
+      "name": "中青(4阅读)",
       "type": "cron",
       "time": "4 9,15,20 * * *",
       "job": {
@@ -312,7 +312,7 @@
       }
     },
     {
-      "name": "中青(25阅读)",
+      "name": "中青(5阅读)",
       "type": "cron",
       "time": "5 9,15,20 * * *",
       "job": {
@@ -321,7 +321,7 @@
       }
     },
     {
-      "name": "中青(40阅读)",
+      "name": "中青(20阅读)",
       "type": "cron",
       "time": "20 9,15,20 * * *",
       "job": {
@@ -331,7 +331,7 @@
       "running": false
     },
     {
-      "name": "中青(39阅读)",
+      "name": "中青(19阅读)",
       "type": "cron",
       "time": "19 9,15,20 * * *",
       "job": {
@@ -341,7 +341,7 @@
       "running": false
     },
     {
-      "name": "中青(38阅读)",
+      "name": "中青(18阅读)",
       "type": "cron",
       "time": "18 9,15,20 * * *",
       "job": {
@@ -351,7 +351,7 @@
       "running": false
     },
     {
-      "name": "中青(37阅读)",
+      "name": "中青(17阅读)",
       "type": "cron",
       "time": "17 9,15,20 * * *",
       "job": {
@@ -361,7 +361,7 @@
       "running": false
     },
     {
-      "name": "中青(36阅读)",
+      "name": "中青(16阅读)",
       "type": "cron",
       "time": "16 9,15,20 * * *",
       "job": {
@@ -371,7 +371,7 @@
       "running": false
     },
     {
-      "name": "中青(35阅读)",
+      "name": "中青(15阅读)",
       "type": "cron",
       "time": "15 9,15,20 * * *",
       "job": {
@@ -381,7 +381,7 @@
       "running": false
     },
     {
-      "name": "中青(34阅读)",
+      "name": "中青(14阅读)",
       "type": "cron",
       "time": "14 9,15,20 * * *",
       "job": {
@@ -391,7 +391,7 @@
       "running": false
     },
     {
-      "name": "中青(33阅读)",
+      "name": "中青(13阅读)",
       "type": "cron",
       "time": "13 9,15,20 * * *",
       "job": {
@@ -401,7 +401,7 @@
       "running": false
     },
     {
-      "name": "中青(32阅读)",
+      "name": "中青(12阅读)",
       "type": "cron",
       "time": "12 9,15,20 * * *",
       "job": {
@@ -411,7 +411,7 @@
       "running": false
     },
     {
-      "name": "中青(31阅读)",
+      "name": "中青(11阅读)",
       "type": "cron",
       "time": "11 9,15,20 * * *",
       "job": {
@@ -421,7 +421,7 @@
       "running": false
     },
     {
-      "name": "中青(30阅读)",
+      "name": "中青(10阅读)",
       "type": "cron",
       "time": "10 9,15,20 * * *",
       "job": {
@@ -430,7 +430,7 @@
       }
     },
     {
-      "name": "中青(29阅读)",
+      "name": "中青(9阅读)",
       "type": "cron",
       "time": "9 9,15,20 * * *",
       "job": {
@@ -439,7 +439,7 @@
       }
     },
     {
-      "name": "中青(28阅读)",
+      "name": "中青(8阅读)",
       "type": "cron",
       "time": "8 9,15,20 * * *",
       "job": {
@@ -448,7 +448,7 @@
       }
     },
     {
-      "name": "中青(27阅读)",
+      "name": "中青(7阅读)",
       "type": "cron",
       "time": "7 9,15,20 * * *",
       "job": {
@@ -457,7 +457,7 @@
       }
     },
     {
-      "name": "中青(26阅读)",
+      "name": "中青(6阅读)",
       "type": "cron",
       "time": "6 9,15,20 * * *",
       "job": {
