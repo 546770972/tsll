@@ -77,135 +77,105 @@
       }
     },
     {
-      "name": "中青（看看赚2）",
-      "type": "cron",
-      "time": "2 13 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz2.js"
-      }
-    },
-    {
       "name": "中青（看看赚1）",
       "type": "cron",
-      "time": "1 13 * * *",
+      "time": "1 12 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz.js"
       }
     },
     {
-      "name": "中青（看看赚4）",
+      "name": "中青（看看赚2）",
       "type": "cron",
-      "time": "4 13 * * *",
+      "time": "2 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz4.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz2.js"
       }
     },
     {
       "name": "中青（看看赚3）",
       "type": "cron",
-      "time": "3 13 * * *",
+      "time": "3 12 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz3.js"
       }
     },
     {
-      "name": "中青（看看赚20）",
+      "name": "中青（看看赚4）",
       "type": "cron",
-      "time": "20 13 * * *",
+      "time": "4 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz20.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz4.js"
+      }
+    },
+    {
+      "name": "中青（看看赚5）",
+      "type": "cron",
+      "time": "5 12 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz5.js"
       },
       "running": false
     },
     {
-      "name": "中青（看看赚19）",
+      "name": "中青（看看赚6）",
       "type": "cron",
-      "time": "19 13 * * *",
+      "time": "6 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz19.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz6.js"
       },
       "running": false
     },
     {
-      "name": "中青（看看赚18）",
+      "name": "中青（看看赚7）",
       "type": "cron",
-      "time": "18 13 * * *",
+      "time": "7 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz18.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz7.js"
       },
       "running": false
     },
     {
-      "name": "中青（看看赚17）",
+      "name": "中青（看看赚8）",
       "type": "cron",
-      "time": "17 13 * * *",
+      "time": "8 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz17.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz8.js"
       },
       "running": false
     },
     {
-      "name": "中青（看看赚16）",
+      "name": "中青（看看赚9）",
       "type": "cron",
-      "time": "16 13 * * *",
+      "time": "9 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz16.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz9.js"
       },
       "running": false
     },
     {
-      "name": "中青（看看赚15）",
+      "name": "中青（看看赚10）",
       "type": "cron",
-      "time": "15 13 * * *",
+      "time": "10 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz15.js"
-      },
-      "running": false
-    },
-    {
-      "name": "中青（看看赚14）",
-      "type": "cron",
-      "time": "14 13 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz14.js"
-      },
-      "running": false
-    },
-    {
-      "name": "中青（看看赚13）",
-      "type": "cron",
-      "time": "13 13 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz13.js"
-      },
-      "running": false
-    },
-    {
-      "name": "中青（看看赚12）",
-      "type": "cron",
-      "time": "12 13 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz12.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz10.js"
       },
       "running": false
     },
     {
       "name": "中青（看看赚11）",
       "type": "cron",
-      "time": "11 13 * * *",
+      "time": "11 12 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz11.js"
@@ -213,57 +183,87 @@
       "running": false
     },
     {
-      "name": "中青（看看赚10）",
+      "name": "中青（看看赚12）",
       "type": "cron",
-      "time": "10 13 * * *",
+      "time": "12 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz10.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz12.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青（看看赚13）",
+      "type": "cron",
+      "time": "13 12 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz13.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青（看看赚14）",
+      "type": "cron",
+      "time": "14 12 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz14.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青（看看赚15）",
+      "type": "cron",
+      "time": "15 12 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz15.js"
       }
     },
     {
-      "name": "中青（看看赚9）",
+      "name": "中青（看看赚16）",
       "type": "cron",
-      "time": "9 13 * * *",
+      "time": "16 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz9.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz16.js"
       }
     },
     {
-      "name": "中青（看看赚8）",
+      "name": "中青（看看赚17）",
       "type": "cron",
-      "time": "8 13 * * *",
+      "time": "17 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz8.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz17.js"
       }
     },
     {
-      "name": "中青（看看赚7）",
+      "name": "中青（看看赚18）",
       "type": "cron",
-      "time": "7 13 * * *",
+      "time": "18 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz7.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz18.js"
       }
     },
     {
-      "name": "中青（看看赚6）",
+      "name": "中青（看看赚19）",
       "type": "cron",
-      "time": "6 13 * * *",
+      "time": "19 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz6.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz19.js"
       }
     },
     {
-      "name": "中青（看看赚5）",
+      "name": "中青（看看赚20）",
       "type": "cron",
-      "time": "5 13 * * *",
+      "time": "20 12 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz5.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqkkz20.js"
       }
     },
     {
@@ -321,92 +321,52 @@
       }
     },
     {
-      "name": "中青(20阅读)",
+      "name": "中青(6阅读)",
       "type": "cron",
-      "time": "20 9,15,20 * * *",
+      "time": "6 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz20.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz6.js"
       },
       "running": false
     },
     {
-      "name": "中青(19阅读)",
+      "name": "中青(7阅读)",
       "type": "cron",
-      "time": "19 9,15,20 * * *",
+      "time": "7 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz19.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz7.js"
       },
       "running": false
     },
     {
-      "name": "中青(18阅读)",
+      "name": "中青(8阅读)",
       "type": "cron",
-      "time": "18 9,15,20 * * *",
+      "time": "8 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz18.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz8.js"
       },
       "running": false
     },
     {
-      "name": "中青(17阅读)",
+      "name": "中青(9阅读)",
       "type": "cron",
-      "time": "17 9,15,20 * * *",
+      "time": "9 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz17.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz9.js"
       },
       "running": false
     },
     {
-      "name": "中青(16阅读)",
+      "name": "中青(10阅读)",
       "type": "cron",
-      "time": "16 9,15,20 * * *",
+      "time": "10 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz16.js"
-      },
-      "running": false
-    },
-    {
-      "name": "中青(15阅读)",
-      "type": "cron",
-      "time": "15 9,15,20 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz15.js"
-      },
-      "running": false
-    },
-    {
-      "name": "中青(14阅读)",
-      "type": "cron",
-      "time": "14 9,15,20 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz14.js"
-      },
-      "running": false
-    },
-    {
-      "name": "中青(13阅读)",
-      "type": "cron",
-      "time": "13 9,15,20 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz13.js"
-      },
-      "running": false
-    },
-    {
-      "name": "中青(12阅读)",
-      "type": "cron",
-      "time": "12 9,15,20 * * *",
-      "job": {
-        "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz12.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz10.js"
       },
       "running": false
     },
@@ -421,48 +381,88 @@
       "running": false
     },
     {
-      "name": "中青(10阅读)",
+      "name": "中青(12阅读)",
       "type": "cron",
-      "time": "10 9,15,20 * * *",
+      "time": "12 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz10.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz12.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青(13阅读)",
+      "type": "cron",
+      "time": "13 9,15,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz13.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青(14阅读)",
+      "type": "cron",
+      "time": "14 9,15,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz14.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青(15阅读)",
+      "type": "cron",
+      "time": "15 9,15,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz15.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青(16阅读)",
+      "type": "cron",
+      "time": "16 9,15,20 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz16.js"
       }
     },
     {
-      "name": "中青(9阅读)",
+      "name": "中青(17阅读)",
       "type": "cron",
-      "time": "9 9,15,20 * * *",
+      "time": "17 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz9.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz17.js"
       }
     },
     {
-      "name": "中青(8阅读)",
+      "name": "中青(18阅读)",
       "type": "cron",
-      "time": "8 9,15,20 * * *",
+      "time": "18 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz8.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz18.js"
       }
     },
     {
-      "name": "中青(7阅读)",
+      "name": "中青(19阅读)",
       "type": "cron",
-      "time": "7 9,15,20 * * *",
+      "time": "19 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz7.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz19.js"
       }
     },
     {
-      "name": "中青(6阅读)",
+      "name": "中青(20阅读)",
       "type": "cron",
-      "time": "6 9,15,20 * * *",
+      "time": "20 9,15,20 * * *",
       "job": {
         "type": "runjs",
-        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz6.js"
+        "target": "https://raw.githubusercontent.com/546770972/tsll/main/zq/zqwz20.js"
       }
     },
     {
