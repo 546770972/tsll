@@ -571,9 +571,9 @@
             "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
             "script": "https://raw.githubusercontent.com/YaphetS0903/JStest/main/flg.js"
   },{
-    "id": "flhs&tsll",
-        "name": "返利好省",
-            "keys": ["jzttToken","jzttToken2","jzttToken3","jzttToken4","jzttToken5","jzttToken6","jzttToken7","jzttToken8"],
+    "id": "jztt&tsll",
+        "name": "新九章",
+            "keys": ["jzttToken"],
                 "author": "@tsll",
                     "settings": [{
                         "id": "jzttstatus",
