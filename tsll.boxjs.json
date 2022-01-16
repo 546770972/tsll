@@ -573,16 +573,16 @@
   },{
     "id": "flhs&tsll",
         "name": "返利好省",
-            "keys": ["flhsCookie","flhsCookie2","flhsCookie3","flhsCookie4","flhsCookie5","flhsCookie6","flhsCookie7","flhsCookie8","flhsCookie9","flhsCookie10","flhsCookie11","flhsCookie12","flhsCookie13","flhsCookie14","flhsCookie15","flhsCookie16","flhsCookie17","flhsCookie18","flhsCookie19","flhsCookie20","flhsCookie21","flhsCookie22","flhsCookie23","flhsCookie24","flhsCookie25","flhsCookie26","flhsCookie27","flhsCookie28","flhsCookie29","flhsCookie30"],
+            "keys": ["jzttToken","jzttToken2","jzttToken3","jzttToken4","jzttToken5","jzttToken6","jzttToken7","jzttToken8"],
                 "author": "@tsll",
                     "settings": [{
-                        "id": "flhsstatus",
+                        "id": "jzttstatus",
                         "name": "当前账号",
                         "val": "1",
                         "type": "number",
                         "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
                     }, {
-                        "id": "flhscount",
+                        "id": "jzttcount",
                         "name": "账号个数",
                         "val": "1",
                         "type": "number",
@@ -594,9 +594,9 @@
                         "type": "number",
                         "desc": "0关闭通知，1打开通知"
                     }],
-                        "repo": "https://github.com/YaphetS0903/JStest/blob/main/flhs.js",
+                        "repo": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jztt.js",
             "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
-            "script": "https://raw.githubusercontent.com/YaphetS0903/JStest/main/flhs.js"
+            "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jztt.js"
   },{
     "id": "jscfz&tsll",
     "name": "嘉实宠粉站",
@@ -654,157 +654,6 @@
     "repo": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js",
     "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
     "script": "https://raw.githubusercontent.com/xl2101200/-/main/jscfz.js"
-    },
-    {
-        "id": "hdapp&tsll",
-        "name": "鸿答APP",
-        "keys": ["hdPhone","hdPhone2","hdPhone3","hdPhone4","hdPhone5","hdPhone6","hdPhone7","hdPhone8","hdPhone9","hdPhone10","hdPhone11","hdPhone12","hdPhone13","hdPhone14","hdPhone15","hdPhone16","hdPhone17","hdPhone18","hdPhone19","hdPhone20","hdPhone21","hdPhone22"],
-        "settings": [{
-            "id": "hdcount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-        }, {
-            "id": "hdPhone",
-            "name": "鸿答APP账户密码1",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }
-		, {
-            "id": "hdPhone2",
-            "name": "鸿答APP账户密码2",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone3",
-            "name": "鸿答APP账户密码3",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone4",
-            "name": "鸿答APP账户密码4",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone5",
-            "name": "鸿答APP账户密码5",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone6",
-            "name": "鸿答APP账户密码6",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone7",
-            "name": "鸿答APP账户密码7",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone8",
-            "name": "鸿答APP账户密码8",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone9",
-            "name": "鸿答APP账户密码9",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone10",
-            "name": "鸿答APP账户密码10",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone11",
-            "name": "鸿答APP账户密码11",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone12",
-            "name": "鸿答APP账户密码12",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone13",
-            "name": "鸿答APP账户密码13",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone14",
-            "name": "鸿答APP账户密码14",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone15",
-            "name": "鸿答APP账户密码15",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone16",
-            "name": "鸿答APP账户密码16",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone17",
-            "name": "鸿答APP账户密码17",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone18",
-            "name": "鸿答APP账户密码18",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone19",
-            "name": "鸿答APP账户密码19",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone20",
-            "name": "鸿答APP账户密码20",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone21",
-            "name": "鸿答APP账户密码21",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }, {
-            "id": "hdPhone22",
-            "name": "鸿答APP账户密码22",
-            "val": "",
-            "type": "text",
-            "desc": "手机账户#密码"
-        }],
-        "icons": [
-            "https://ls.hzyuechuang.com/favicon.ico",
-            "https://ls.hzyuechuang.com/favicon.ico"],
-        "author": "@byxiaopeng",
-        "repo": "https://github.com/byxiaopeng/myscripts",
-        "script": "https://cdn.jsdelivr.net/gh/byxiaopeng/myscripts@main/hdapp.js"
     },
 	{
             "id":"dawapp&tsll",
