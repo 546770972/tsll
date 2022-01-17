@@ -657,10 +657,10 @@
     },
 	{
             "id":"dawapp&tsll",
-            "name":"都爱玩",
-            "keys":["dawToken"],
+            "name":"腾讯微证卷",
+            "keys":["txzxgck"],
             "settings": [{
-                "id": "dawuserck",
+                "id": "txzxgckserck",
                 "name": "当前账号",
                 "val": "1",
                 "type": "number",
