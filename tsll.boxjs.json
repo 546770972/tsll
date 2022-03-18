@@ -598,54 +598,54 @@
             "icons": ["https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg", "https://raw.githubusercontent.com/YaphetS0903/JStest/main/image/YaphetS.jpg"],
             "script": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jztt.js"
   },{
-    "id": "jscfz&tsll",
-    "name": "嘉实宠粉站",
-    "keys": ["jscfzheader","jscfzheader2","jscfzheader3","jscfzheader4","jscfzheader5","jscfzheader6","jscfzheader7","jscfzheader8","jscfzheader9","jscfzheader10","jscfzheader11","jscfzheader12","jscfzheader13","jscfzheader14","jscfzheader15","jscfzheader16","jscfzheader17","jscfzheader18","jscfzheader19","jscfzheader20","jscfzheader21","jscfzheader22","jscfzheader23","jscfzheader24","jscfzheader25","jscfzheader26","jscfzheader27","jscfzheader28","jscfzheader29","jscfzheader30"],
-    "author": "@tom",
+    "id": "sytt&tsll",
+    "name": "十堰头条",
+    "keys": ["yml_sytt_data"],
+    "author": "@tsll",
     "settings": [{
-      "id": "jscfzSuffix",
+      "id": "syttSuffix",
       "name": "当前账号",
       "val": "1",
       "type": "number",
       "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
     }, {
-      "id": "jscfzCount",
+      "id": "syttCount",
       "name": "账号个数",
       "val": "1",
       "type": "number",
       "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
     }, {
-      "id": "jscfzXH",
+      "id": "syttXH",
       "name": "循环获取ck",
       "val": "0",
       "type": "number",
       "desc": "0关闭，1打开，默认关闭"
     }, {
-      "id": "jscfzTXTX",
+      "id": "syttTXTX",
       "name": "txtx",
       "val": "0",
       "type": "number",
       "desc": "0关闭，1打开，默认关闭"
     }, {
-      "id": "jscfzSC",
+      "id": "syttSC",
       "name": "sc",
       "val": "0",
       "type": "number",
       "desc": "0关闭，1打开，默认关闭"
     }, {
-      "id": "jscfznotifyttt",
+      "id": "syttnotifyttt",
       "name": "推送控制",
       "val": "1",
       "type": "number",
       "desc": "0关闭，1推送,默认12点以及23点推送"
     }, {
-      "id": "jscfznotifyInterval",
+      "id": "syttnotifyInterval",
       "name": "通知控制",
       "val": "2",
       "type": "number",
       "desc": "0关闭，1为 所有通知，2为 12，23 点通知，3为 6，12，18，23 点通知"
     }, {
-      "id": "jscfzMinutes",
+      "id": "syttMinutes",
       "name": "推送-通知 分钟控制",
       "val": "10",
       "type": "number",
