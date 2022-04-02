@@ -180,9 +180,9 @@
     "script": "https://raw.githubusercontent.com/546770972/tsll/main/yxh.js"
     },
     {
-    "id": "yyd&tsll",
-    "name": "云阅读",
-    "keys": ["yydurl","yydheader","yydurl2","yydheader2","yydurl3","yydheader3","yydurl4","yydheader4","yydurl5","yydheader5","yydurl6","yydheader6","yydurl7","yydheader7","yydurl8","yydheader8","yydurl9","yydheader9","yydurl10","yydheader10","yydurl11","yydheader11","yydurl12","yydheader12","yydurl13","yydheader13","yydurl14","yydheader14","yydurl15","yydheader15","yydurl16","yydheader16","yydurl17","yydheader17","yydurl18","yydheader18","yydurl19","yydheader19","yydurl20","yydheader20","yydurl21","yydheader21","yydurl22","yydheader22","yydurl23","yydheader23"],
+    "id": "ksjs&tsll",
+    "name": "快手",
+    "keys": ["ksjsbCookie"],
     "author": "@tsll",
     "settings": [{
       "id": "yydSuffix",
