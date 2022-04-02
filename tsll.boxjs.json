@@ -182,7 +182,7 @@
     {
     "id": "ksjs&tsll",
     "name": "快手",
-    "keys": ["ksjsbCookie"],
+    "keys": ["ksjsbCookie","did"],
     "author": "@tsll",
     "settings": [{
       "id": "yydSuffix",
