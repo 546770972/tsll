@@ -66,7 +66,7 @@
        {
       "id": "jztt&tsll",
   "name": "九章头条",
-  "keys": ["jztturl", "jztturl2", "jztturl3", "jztturl4", "jztturl5", "jztturl6", "jztturl7", "jztturl8", "jztturl9", "jztturl10", "jztturl11", "jztturl12", "jztturl13", "jztturl14", "jztturl15", "jztturl16", "jztturl17", "jztturl18", "jztturl19", "jztturl20", "jztturl21", "jztturl22", "jztturl23", "jztturl24", "jztturl25", "jztturl26", "jztturl27", "jztturl28", "jztturl29", "jztturl30"],
+  "keys": ["jzttToken", "jzttToken2", "jzttToken3", "jzttToken4", "jzttToken5", "jzttToken6", "jzttToken7", "jzttToken8", "jzttToken9", "jzttToken10", "jzttToken11", "jzttToken12", "jzttToken13", "jzttToken14", "jzttToken15", "jzttToken16", "jzttToken17", "jzttToken18", "jzttToken19", "jzttToken20", "jzttToken21", "jzttToken22", "jzttToken23", "jzttToken24", "jzttToken25", "jzttToken26", "jzttToken27", "jzttToken28", "jzttToken29", "jzttToken30"],
   "author": "@tsll",
   "settings": [{
     "id": "jzttSuffix",
