@@ -302,64 +302,28 @@
             "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/dsj.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/dsj.png"],
             "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/dsj.js"
         },
- {  
-  "id": "qmrdtsll",
-  "name": "全民热点",
-  "keys": ["qmrdheader","qmrdheader2","qmrdheader3","qmrdheader4","qmrdheader5","qmrdheader6","qmrdheader7","qmrdheader8","qmrdheader9","qmrdheader10","qmrdheader11","qmrdheader12","qmrdheader13","qmrdheader14","qmrdheader15"],
-  "author": "@tsll",
+{
+      "id": "tkzx&tsll",
+  "name": "泰康在线",
+  "keys": ["tkzxbd","tkzxbd2","tkzxbd3","tkzxbd4", "tkzxbd5","tkzxbd6","tkzxbd7","tkzxbd8","tkzxbd9","tkzxbd10","tkzxbd11","tkzxbd12","tkzxbd13","tkzxbd14","tkzxbd15","tkzxbd16","tkzxbd17","tkzxbd18","tkzxbd19","tkzxbd20","tkzxbd21","tkzxbd22","tkzxbd23","tkzxbd24","tkzxbd25","tkzxbd26","tkzxbd27","tkzxbd28","tkzxbd29","tkzxbd30"],
   "settings": [{
-    "id": "qmrdSuffix",
-    "name": "当前账号",
+    "id": "tkzxstatus",
+    "name": "当前账号数",
     "val": "1",
     "type": "number",
-    "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
+    "desc": "想要抓取第几个账号的数据就填几"
   }, {
-    "id": "qmrdCount",
-    "name": "账号个数",
+    "id": "tkzxcount",
+    "name": "当前账号总数",
     "val": "1",
     "type": "number",
-    "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-  }, {
-    "id": "qmrdXH",
-    "name": "循环获取ck",
-    "val": "0",
-    "type": "number",
-    "desc": "0关闭，1打开，默认关闭"
-  }, {
-    "id": "qmrdTXTX",
-    "name": "txtx",
-    "val": "0",
-    "type": "number",
-    "desc": "0关闭，1打开，默认关闭"
-  }, {
-    "id": "qmrdSC",
-    "name": "sc",
-    "val": "0",
-    "type": "number",
-    "desc": "0关闭，1打开，默认关闭"
-  }, {
-    "id": "qmrdnotifyttt",
-    "name": "推送控制",
-    "val": "1",
-    "type": "number",
-    "desc": "0关闭，1推送,默认12点以及23点推送"
-  }, {
-    "id": "qmrdnotifyInterval",
-    "name": "通知控制",
-    "val": "2",
-    "type": "number",
-    "desc": "0关闭，1为 所有通知，2为 12，23 点通知，3为 6，12，18，23 点通知"
-  }, {
-    "id": "qmrdMinutes",
-    "name": "推送-通知 分钟控制",
-    "val": "10",
-    "type": "number",
-    "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
+    "desc": "想要跑几个号就填几"
   }],
-  "repo": "https://raw.githubusercontent.com/xl2101200/-/main/qmrd.js",
-  "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
-  "script": "https://raw.githubusercontent.com/xl2101200/-/main/qmrd.js"
-    },
+  "author": "@danchaofan",
+                        "repo": "https://github.com/danchaofan12138/danchaofan/blob/main/dd_fruit.js",
+                            "icons": ["https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/hbd.png", "https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/hbd.png"],
+                                "script": "https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/dd_fruit.js"
+  } ,
        {
             "id": "jsz&tsll",
             "name": "金手指",
